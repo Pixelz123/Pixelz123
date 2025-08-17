@@ -6,9 +6,6 @@
   <a href="mailto:souptik4444@gmail.com"><img src="https://img.shields.io/badge/Email-souptik4444%40gmail.com-red?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/souptik-hazra-088b39263/"><img src="https://img.shields.io/badge/LinkedIn-Souptik%20Hazra-blue?logo=linkedin"></a>
   <a href="https://github.com/Pixelz123"><img src="https://img.shields.io/badge/GitHub-Pixelz123-black?logo=github"></a>
-  <a href="https://leetcode.com/u/i_am_dumb/"><img src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-orange?logo=leetcode"></a>
-  <a href="https://codeforces.com/profile/0and1"><img src="https://img.shields.io/badge/Codeforces-Pupil%20(1290)-blue?logo=codeforces"></a>
-  <a href="https://www.codechef.com/users/iam_dumb"><img src="https://img.shields.io/badge/CodeChef-3★%20(1627)-brown?logo=codechef"></a>
 </p>
 
 ---
